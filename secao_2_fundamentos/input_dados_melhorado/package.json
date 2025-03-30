@@ -1,0 +1,14 @@
+{
+  "name": "input_dados_melhorado",
+  "version": "1.0.0",
+  "description": "Melhorando o input de dados",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Katiri",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.1.2"
+  }
+}
